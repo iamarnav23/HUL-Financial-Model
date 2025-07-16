@@ -18,7 +18,6 @@ Used these methods for understanding performance and investment potential.
 
 Wanted to learn more about how real companies are analysed in finance.
 Practiced concepts useful for campus placements and internships.
-- Helpful for CA, MBA, or commerce background students.
 
 Tools Used
 
